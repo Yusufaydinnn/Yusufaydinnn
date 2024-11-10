@@ -31,13 +31,19 @@ Test otomasyonunda kendimi daha da geliştirmeyi hedefliyorum. Daha büyük ve k
 
 ---
 
-## 📈 Projelerim  
+## 📈 Projelerim
 
-- **E-Ticaret Platform Test Otomasyonu**  
-  Kullanıcı deneyimini iyileştirmek ve hata oranını düşürmek için otomatik testler geliştirdim.  
+- **[Amazon Project](https://github.com/Yusufaydinnn/AmazonProject)**  
+  Amazon üzerinde otomatik olarak sayfalar arası geçiş yaparak, belirlenen ürünleri bulup sepete ekleyen test otomasyonu.
 
-- **Bankacılık Uygulaması Güvenlik Testleri**  
-  Bankacılık uygulamalarının kritik işlevlerini test ederek güvenliği artırdım.  
+- **[Twitter Project](https://github.com/Yusufaydinnn/twitterproject)**  
+  Belirlenen saat ve tarihte Twitter'a giriş yaparak otomatik post paylaşma işlemi gerçekleştiren test otomasyonu.
+
+- **[Automation Exercise](https://github.com/Yusufaydinnn/AutomationExercise)**  
+  E-ticaret platformunda kullanıcı hesabı oluşturma, ürünleri sepete ekleme ve ödeme işlemi yapma adımlarını otomatikleştiren test otomasyonu.
+
+- **[InstagramProject2](https://github.com/Yusufaydinnn/instagramproject2)**  
+  Belirlenen kullanıcı ile Instagram'a giriş yaparak, tüm gönderilerini otomatik olarak beğenen test otomasyonu.
 
 ---
 
