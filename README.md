@@ -4,15 +4,11 @@
 
 ---
 
-## 🚀 Neler Yaptım?  
+## 🚀 Neler Yaptım? & 🌱 Neler Yapacağım?
 
-Selenium teknolojisiyle birçok test otomasyon projesi geliştirdim. Bu projeler, manuel test süreçlerini otomatikleştirerek zamandan tasarruf sağladı ve hata oranlarını minimize etti.  
-
----
-
-## 🌱 Neler Yapacağım?  
-
-Test otomasyonunda kendimi daha da geliştirmeyi hedefliyorum. Daha büyük ve karmaşık projelerde yer alarak sektörde güçlü bir iz bırakmak istiyorum. Ayrıca performans ve güvenlik testlerinde de uzmanlaşarak tam kapsamlı bir test mühendisi olmayı planlıyorum.  
+| **Neler Yaptım?** | **Neler Yapacağım?** |
+|-------------------|----------------------|
+| Selenium teknolojisiyle birçok test otomasyon projesi geliştirdim. Bu projeler, manuel test süreçlerini otomatikleştirerek zamandan tasarruf sağladı ve hata oranlarını minimize etti. | Test otomasyonunda kendimi daha da geliştirmeyi hedefliyorum. Daha büyük ve karmaşık projelerde yer alarak sektörde güçlü bir iz bırakmak istiyorum. Ayrıca performans ve güvenlik testlerinde de uzmanlaşarak tam kapsamlı bir test mühendisi olmayı planlıyorum. |
 
 ---
 
