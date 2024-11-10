@@ -43,5 +43,5 @@ Test otomasyonunda kendimi daha da geliştirmeyi hedefliyorum. Daha büyük ve k
 
 ## 📫 Bana Ulaşın  
 
-- **LinkedIn**: [linkedin.com/in/yusufaydin](#)  
-- **E-Posta**: [yusuf.aydin@example.com](#)  
+- **LinkedIn**: [https://www.linkedin.com/in/yusuf-ayd%C4%B1n-a61541218/](#)  
+- **E-Posta**: [yusufaydin523455@gmail.com](#)  
