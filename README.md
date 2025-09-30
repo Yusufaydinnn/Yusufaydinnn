@@ -1,6 +1,6 @@
 # Merhaba, ben Yusuf Aydın!  
 
-23 yaşındayım ve test otomasyon alanında kendimi geliştiren bir junior yazılımcıyım. Yazılım test süreçlerini daha verimli hale getirmek ve projelerin kalitesini artırmak için çalışıyorum.  
+23 yaşındayım ve .Net alanında kendimi geliştiren bir junior yazılımcıyım. Yazılım daha verimli hale getirmek ve projelerin kalitesini artırmak için çalışıyorum.  
 
 ---
 
