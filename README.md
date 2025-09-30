@@ -5,13 +5,12 @@
 ---
 
 
-## 🚀 Neler Yaptım? &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 🌱 Neler Yapacağım?
 
-| **Neler Yaptım?** | **Neler Yapacağım?** |
+
+|  **🚀 Neler Yaptım?**   &nbsp;&nbsp;&nbsp;&nbsp; |  **🌱 Neler Yapacağım?**   |
 |-------------------|----------------------|
-| Selenium teknolojisiyle birçok test otomasyon projesi geliştirdim. Bu projeler, manuel test süreçlerini otomatikleştirerek zamandan tasarruf sağladı ve hata oranlarını minimize etti. Aynı zamanda .Net üzerinde de bir kaç proje geliştirdim. | Test otomasyonunda kendimi daha da geliştirmeyi hedefliyorum. Daha büyük ve karmaşık projelerde yer alarak sektörde güçlü bir iz bırakmak istiyorum. Ayrıca .Net öğrenerek de bir başka alanda kendimi geliştiriyorum.
+| Selenium teknolojisiyle birçok test otomasyon projesi geliştirdim. Bu projeler, manuel test süreçlerini otomatikleştirerek zamandan tasarruf sağladı ve hata oranlarını minimize etti. Aynı zamanda .Net üzerinde de birkaç proje geliştirdim. | Test otomasyonunda kendimi daha da geliştirmeyi hedefliyorum. Daha büyük ve karmaşık projelerde yer alarak sektörde güçlü bir iz bırakmak istiyorum. Ayrıca .Net öğrenerek de bir başka alanda kendimi geliştiriyorum.
 
----
 
 
 ## 🛠️ Tool Tech Kit & 📈 Projelerim
