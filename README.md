@@ -34,6 +34,8 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 | 
 
+| **Projelerim** |
+
 - **[Amazon Project](https://github.com/Yusufaydinnn/AmazonProject)** <br> Amazon üzerinde otomatik olarak sayfalar arası geçiş yaparak, belirlenen ürünleri bulup sepete ekleyen test otomasyonu. <br><br> 
 - **[Twitter Project](https://github.com/Yusufaydinnn/twitterproject)** <br> Belirlenen saat ve tarihte Twitter'a giriş yaparak otomatik post paylaşma işlemi gerçekleştiren test otomasyonu. <br><br> 
 - **[Automation Exercise](https://github.com/Yusufaydinnn/AutomationExercise)** <br> E-ticaret platformunda kullanıcı hesabı oluşturma, ürünleri sepete ekleme ve ödeme işlemi yapma adımlarını otomatikleştiren test otomasyonu. <br><br> 
