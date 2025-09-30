@@ -38,7 +38,8 @@
 - **[Amazon Project](https://github.com/Yusufaydinnn/AmazonProject)** <br> Amazon üzerinde otomatik olarak sayfalar arası geçiş yaparak, belirlenen ürünleri bulup sepete ekleyen test otomasyonu. <br><br> 
 - **[Twitter Project](https://github.com/Yusufaydinnn/twitterproject)** <br> Belirlenen saat ve tarihte Twitter'a giriş yaparak otomatik post paylaşma işlemi gerçekleştiren test otomasyonu. <br><br> 
 - **[Automation Exercise](https://github.com/Yusufaydinnn/AutomationExercise)** <br> E-ticaret platformunda kullanıcı hesabı oluşturma, ürünleri sepete ekleme ve ödeme işlemi yapma adımlarını otomatikleştiren test otomasyonu. <br><br> 
-- **[InstagramProject2](https://github.com/Yusufaydinnn/instagramproject2)** <br> Belirlenen kullanıcı ile Instagram'a giriş yaparak, tüm gönderilerini otomatik olarak beğenen test otomasyonu. 
+- **[InstagramProject2](https://github.com/Yusufaydinnn/instagramproject2)** <br> Belirlenen kullanıcı ile Instagram'a giriş yaparak, tüm gönderilerini otomatik olarak beğenen test otomasyonu. <br><br> 
+- **[MvcCv](https://github.com/Yusufaydinnn/MvcCv)** <br> Kendi CV bilgilerimi sergileyebileceğim ve admin paneli üzerinden yönetebileceğim bir kişisel cv sitesi projesi.  <br><br> 
 
 
 
